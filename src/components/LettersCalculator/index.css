@@ -1,0 +1,23 @@
+.back {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9, white);
+  background-size: cover;
+  padding-bottom: 20px;
+}
+.sec {
+  padding-top: 200px;
+  display: flex;
+}
+
+.imge {
+  height: 530px;
+  width: 530px;
+}
+.para {
+  margin-top: 10px;
+  padding-top: 10px;
+  background-color: white;
+  color: #1d976c;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
